@@ -34,3 +34,7 @@ The main outline of the final app version:
 -	Switch expression
 -	Storing data in Enums
 -	OOP principles
+
+<br></br>
+
+![icon](https://img.shields.io/github/last-commit/dawidsado/PotentialOutfitForCurrentWeather.svg)
