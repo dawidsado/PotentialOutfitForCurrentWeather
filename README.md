@@ -30,9 +30,13 @@ The main outline of the final app version:
 
 ## •	WHAT HAD I PRACTICED DURING THAT PROJECT? 🤔
 -	Working with API
+
 -	Pulling out the most interesting information from API data (using regex and parsing)
+
 -	Switch expression
+
 -	Storing data in Enums
+
 -	OOP principles
 
 <br></br>
