@@ -8,6 +8,8 @@ A couple of interfaces were implemented: for unit conversion (Kelvins into Celsi
 
 API was from OpenWeatherMap, I used a version with current weather data in the area chosen by me (I picked Warsaw, but it is only an example, location can be changed in the future). 
 
+https://starchart.cc/dawidsado/PotentialOutfitForCurrentWeather.svg
+
 <br></br>
 
 ## •	TECHNOLOGY THAT I USED 🚀
